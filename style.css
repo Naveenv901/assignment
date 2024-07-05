@@ -1,0 +1,8 @@
+#tab,tr,td {
+    border: solid 1px black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+.a{
+    padding-top: 30px;
+}

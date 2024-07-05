@@ -1,0 +1,37 @@
+table,tr,td {
+    border: solid 1px black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+.o{
+ background-color: white;
+}
+.e{
+    background-color: black;
+}
+.a{
+    padding-left: 40%;
+}
+.at{
+    padding-left: 50px;
+    padding-top: 20px;
+    display: inline;
+}
+.ar{
+    padding-left: 50px;
+    padding-top: 20px;
+    display: inline;
+}
+.aa{
+    padding-left: 50px;
+    padding-top: 20px;
+    display: inline;
+}
+.at img,.aa img,.ar img{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+h1{
+    text-align: center;
+    padding-left: 100px;
+}
